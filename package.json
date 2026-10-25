@@ -1,6 +1,6 @@
 {
   "name": "@xeno-js/pino",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "High-performance structured logging integration and Pino adapter for Xeno.js with automatic data redaction and TypeScript support.",
   "repository": {
     "type": "git",
